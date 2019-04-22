@@ -8,5 +8,6 @@ Väga väike asi, aga see, et ta filmis ka ennast ja lõikas ennast ka ekraanipi
 
 Git projektis on README.md, kus kirjeldatakse vajalikest muutustest seoses SDK versiooni muutustega. 
 Alguses üritasin jooksutada rakendust telefoni peal läbi Flutter DevApp-i, aga seadistamisel esines liiga palju tõrkeid ja toiminud ja loobusin. Veebis on piisavalt hea ja lisaks näeb konsooli ka.
+Tuli installida Insomnia, et tõkestada app-i kasutusel erkaani kustumist.
 
 Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel.
