@@ -11,3 +11,4 @@ Alguses üritasin jooksutada rakendust telefoni peal läbi Flutter DevApp-i, aga
 Tuli installida Insomnia, et tõkestada app-i kasutusel erkaani kustumist.
 
 Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel.
+Kuna rakendus ise juba enda põhimõtte poolest üsna lihtne, siis ei suutnud ma midagi erilist välja mõelda sellele. Sellegipoolest, et asi üldse tööle saada oli vaja näha vaeva erinevate tegevustega, sest mingid paketid olid tal installitud/olemas, mida mul ei olnud ja siis neidki ei tahetud omistada.
