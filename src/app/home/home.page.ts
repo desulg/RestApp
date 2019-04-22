@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-import { startTimeRange } from '@angular/core/src/profile/wtf_impl';
-import { ThrowStmt } from '@angular/compiler';
 import { Insomnia } from '@ionic-native/insomnia/ngx';
 
 @Component({
