@@ -1,5 +1,7 @@
 {
   "name": "RestApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

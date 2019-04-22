@@ -78,4 +78,18 @@ export class HomePage {
     while (s.length < size) s = "0" + s;
     return s;
   }
+
+  stopTime() {
+    clearInterval(this.timer);
+    clearInterval(this.overallTimer);
+    this.overallTimer = false;
+    this.timer = false;    
+    this.percent = 0;
+    this.progress = 0;
+    this.elapsed = {
+      h: '00',
+      m: '00',
+      s: '00'
+    }
+  }
 }
