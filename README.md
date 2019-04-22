@@ -1,5 +1,7 @@
 # RestApp
 Git projektis on README.md, mis kirjeldab projekti seadmistamist ja viide juhendile. Projekt on valminud järgides juhendit. https://www.youtube.com/watch?v=qTdwUpQRptc&list=WL&index=106&t=597s
+Ionic-u dokumentatsioon oli ka hea põhjalik ja headete kasutus näidetega:
+https://ionicframework.com/docs
 
 Git projektis on README.md, kus asub arvamus juhendist (min 2 lõiku). 
 Juhend oli väga hea. Autor selgitas kõike üksikasjaliselt, rääkis rahulikult, jagas ekraanipilti tänu millele näitas, kust ta võtab elemente ja komponente ja tutvustas üleüldisi programmeerimise tavasid.
