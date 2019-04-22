@@ -7,20 +7,24 @@
 
 
   <circle-progress (click) ="startTime()"
-    [percent]="percent"
-    [maxPercent]="100"
-    [radius]="radius"
-    [showTitle]="false"
-    [showSubtitle]="false"
-    [showUnits]="false"
-    [outerStrokeWidth]="16"
-    [outerStrokeColor]="'8000FF'"
-    [showZeroOuterStroke]="false"
-    [backgroundStroke]="'#33003F'"
-    [backgroundStrokeWidth]="3"
-    [outerStrokeGradient]="true"
-    [outerStrokeGradientStopColor] ="'#FF00CB'"
-    [showInnerStroke]="false"
+  [percent]="percent"
+  [maxPercent]="100"
+  [radius]="radius"
+  [showTitle]="false"  
+  [showSubtitle]="true"
+  [subtitle]="remainingTime"
+  [subtitleFontSize]="40"
+  [showUnits]="false"
+  [outerStrokeWidth]="16"
+  [outerStrokeColor]="'#8000FF'"
+  [showZeroOuterStroke]="false"
+  [backgroundStroke]="'#33003F'"
+  [backgroundStrokeWidth]="3"
+  [outerStrokeGradient]="true"
+  [outerStrokeGradientStopColor]="'#FF00CB'"
+  [showInnerStroke]="false"
 ></circle-progress>
+
+<p>{{ elapsed.h }}:{{ elapsed.m }}:{{ elapsed.s }}</p>
 
 </ion-content>

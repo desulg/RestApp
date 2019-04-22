@@ -21,6 +21,7 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
     NgCircleProgressModule.forRoot({
       // set defaults here
       radius: 100,
+      imageHeight: 75,
       outerStrokeWidth: 16,
       innerStrokeWidth: 8,
       outerStrokeColor: "#78C000",
